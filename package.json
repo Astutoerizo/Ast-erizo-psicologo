@@ -1,0 +1,9 @@
+{
+  "name": "astuto-erizo-api",
+  "version": "1.0.0",
+  "description": "Backend serverless para el Astuto Erizo",
+  "main": "api/erizo.js",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
